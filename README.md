@@ -14,6 +14,7 @@ Develop a machine learning model using Random Forest to predict:
 based on environmental sensor data like humidity, pressure, wind speed, CO₂, and time.
 
 Dataset
+
      weather-station-eee-block_2024_07_13.csv
 
 ## Equipments Required:
